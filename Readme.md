@@ -14,7 +14,7 @@ Install BibleVOTD with your favorite package manager:
 
 ```json
 {
-    "TheBlckbird/BibleVOTD"
+    "TheBlckbird/bible-votd.nvim"
 }
 ```
 
