@@ -29,3 +29,7 @@ end
 
 vim.api.nvim_create_autocmd({ "VimEnter" }, { callback = show_verse_of_the_day })
 ```
+
+## License
+
+[MIT](/LICENSE)
