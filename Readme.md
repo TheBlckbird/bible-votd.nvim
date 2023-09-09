@@ -12,9 +12,12 @@ Install BibleVOTD with your favorite package manager:
 
 ### lazy.nvim:
 
-```json
+```lua
 {
-    "TheBlckbird/bible-votd.nvim"
+    "TheBlckbird/bible-votd.nvim",
+    dependencies = {
+        "nvim-lua/plenary.nvim"
+    }
 }
 ```
 
